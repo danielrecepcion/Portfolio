@@ -3,8 +3,8 @@
 
 ### Mechanical Engineering Virtual Assistant
 
-📍 [Alaminos City, Pangasinan, Philippines] &nbsp;|&nbsp; 📧 [johndanielrecepcion@gmail.com] &nbsp;|&nbsp;
-🔗 [https://www.linkedin.com/in/john-daniel-recepcion-b3b8772a6/] &nbsp;|&nbsp; 🔗 [GitHub / Google Drive Portfolio URL]
+📍 Alaminos City, Pangasinan, Philippines &nbsp;|&nbsp; 📧 johndanielrecepcion@gmail.com &nbsp;|&nbsp;
+🔗 https://www.linkedin.com/in/john-daniel-recepcion-b3b8772a6/ &nbsp;|&nbsp; 🔗 https://github.com/danielrecepcion/Portfolio
 
 ---
 
@@ -81,7 +81,7 @@
 
 ## Education & Certifications
 
-- [Bachelor of Science in Mechanical Engineering, PHINMA-University of Pangasinan, 4th year student]
+- Bachelor of Science in Mechanical Engineering, PHINMA-University of Pangasinan, 4th year student
 <!--
 - [Certification name, Issuing organization, Year]
 -->
