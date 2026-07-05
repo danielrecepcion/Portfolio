@@ -81,7 +81,7 @@
 
 ## Education & Certifications
 
-- Bachelor of Science in Mechanical Engineering, PHINMA-University of Pangasinan, 4th year student
+- Bachelor of Science in Mechanical Engineering, PHINMA-University of Pangasinan, 4th-year student
 <!--
 - [Certification name, Issuing organization, Year]
 -->
